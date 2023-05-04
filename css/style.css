@@ -1,0 +1,39 @@
+body {
+  font-family: "Poppins", sans-serif !important;
+  background-color: #9dbff3 !important;
+}
+
+nav {
+  background-color: rgb(210, 225, 255) !important;
+}
+
+h1 {
+  font-weight: 800 !important;
+}
+
+h4 {
+  font-weight: 600 !important;
+}
+
+.navbar-brand {
+  font-weight: 700 !important;
+}
+
+.nav-link {
+  font-weight: 700 !important;
+}
+
+
+.card {
+  background-color: #21384d !important;
+  transform: scale(1);
+  transition: all 200ms ease-out !important;
+}
+
+.footer {
+  background-color: rgb(210, 225, 255) !important;
+}
+
+.about-img {
+  width: 100% !important;
+}
